@@ -1,0 +1,37 @@
+📦 interactive-boxes
+This project is a Front-End Technical Support task that demonstrates basic HTML, CSS, and JavaScript skills. It replicates an interactive layout based on a provided Figma design and Loom video.
+
+📌 Features
+Three vertically stacked interactive boxes (Top, Middle, Bottom)
+
+Click on a box to expand and show options
+
+Options to change:
+
+🎨 Color: Red, Green, Blue
+
+📐 Size: Small, Medium, Large
+
+Smooth animations and responsive layout
+
+Styled to closely match the provided Figma design
+
+🛠️ Technologies Used
+HTML5
+
+CSS3 
+
+Vanilla JavaScript 
+
+🚀 Live Demo
+🔗 Click here to view the live project
+
+📁 Folder Structure
+interactive-boxes/
+├── index.html
+├── styles.css
+└── script.js
+
+🧑‍💻 Developed By
+Muthu Selvam M
+Aspiring Technical Support Engineer
